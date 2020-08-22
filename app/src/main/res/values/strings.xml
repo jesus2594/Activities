@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="boton_editar">Editar</string>
+    <string name="boton_enviar">Siguiente</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_telefono">Telefono</string>
+    <string name="text_email">Email</string>
+    <string name="text_fecha">Fecha</string>
+    <string name="text_descripcion">Descripcion</string>
+    <string name="text_confirmar">Confirmar Datos</string>
+    <string name="et_nombre">Nombre completo</string>
+    <string name="et_fecha">Fecha</string>
+    <string name="et_email">Email</string>
+    <string name="et_telefono">Telefono</string>
+    <string name="et_descripcion">Descripción Contacto</string>
+    <string name="tvSetFecha">Establecer Fecha</string>
+    <string name="boton_fecha">Ok</string>
+
+</resources>
